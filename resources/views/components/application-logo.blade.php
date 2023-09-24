@@ -1,0 +1,1 @@
+<img src="{{ asset('images/books.png') }}" class="inline" alt="welcome-logo">
